@@ -1,6 +1,6 @@
 # Stock-Market-Analysis
 ## Objective
-To decide if the stock should be buy, sell or hold on a particualr day
+To decide if the stock should be buy, sell or hold on a particular day
 ## Details of files given
 - assignment.sql : The SQL file showing coding and data analysis
 - Bajaj Auto.csv : Data worked on
